@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#1A73E8"  
+backgroundColor = "#EBF9FF"  
+secondaryBackgroundColor = "#FFFFFF"  # Fundo secundário (branco)
+textColor = "#333333"  # Cor do texto (preto)
+font = "sans serif"  # Fonte padrão
